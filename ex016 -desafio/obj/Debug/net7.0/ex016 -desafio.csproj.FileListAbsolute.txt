@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\bin\Debug\net7.0\ex016 -desafio.exe
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\bin\Debug\net7.0\ex016 -desafio.deps.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\bin\Debug\net7.0\ex016 -desafio.runtimeconfig.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\bin\Debug\net7.0\ex016 -desafio.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\bin\Debug\net7.0\ex016 -desafio.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.AssemblyInfo.cs
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\refint\ex016 -desafio.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ex016 -desafio.genruntimeconfig.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex016 -desafio\obj\Debug\net7.0\ref\ex016 -desafio.dll
