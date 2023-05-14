@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\bin\Debug\net7.0\ex025.exe
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\bin\Debug\net7.0\ex025.deps.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\bin\Debug\net7.0\ex025.runtimeconfig.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\bin\Debug\net7.0\ex025.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\bin\Debug\net7.0\ex025.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.AssemblyInfo.cs
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\refint\ex025.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ex025.genruntimeconfig.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex025 - desafio\obj\Debug\net7.0\ref\ex025.dll
