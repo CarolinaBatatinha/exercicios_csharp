@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\bin\Debug\net7.0\ex044.exe
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\bin\Debug\net7.0\ex044.deps.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\bin\Debug\net7.0\ex044.runtimeconfig.json
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\bin\Debug\net7.0\ex044.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\bin\Debug\net7.0\ex044.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.AssemblyInfo.cs
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\refint\ex044.dll
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.pdb
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ex044.genruntimeconfig.cache
+D:\Documentos\SENAC\1 - período_1\Algoritmos e Programação I\exercícios\exercícios_GG\ex044\obj\Debug\net7.0\ref\ex044.dll
