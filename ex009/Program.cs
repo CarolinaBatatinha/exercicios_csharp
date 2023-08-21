@@ -4,4 +4,4 @@ Console.WriteLine("Quantos reais você tem na carteira? ");
 double dinReal = double.Parse(Console.ReadLine());
 double dinDolar = dinReal/3.45;
 
-Console.WriteLine("Você tem R${0} e pode comprar US${1}.", dinReal, dinDolar);
+Console.WriteLine($"Você tem R$ {dinReal:F2} e pode comprar US$ {dinDolar:F2}.");
