@@ -12,7 +12,7 @@ double distHm = distMetro/100;
 double distDam = distMetro/10;
 double distCm = distMetro*100;
 
-Console.WriteLine("A distância de {0} metros corresponde a:");
+Console.WriteLine($"A distância de {distMetro} metros corresponde a:");
 Console.WriteLine(distKm +" Km");
 Console.WriteLine(distHm +" Hm");
 Console.WriteLine(distDam +" Dam");
