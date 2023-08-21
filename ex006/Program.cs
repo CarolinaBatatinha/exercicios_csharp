@@ -9,5 +9,6 @@ Console.WriteLine("Digite um número inteiro: ");
 int numDigitado = int.Parse(Console.ReadLine());
 int sucessor = numDigitado + 1;
 int antecessor = numDigitado - 1;
+
 Console.WriteLine("O antecessor é {0}.", antecessor);
 Console.WriteLine("O sucessor é {0}.", sucessor);
