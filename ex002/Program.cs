@@ -5,4 +5,5 @@
 
 Console.WriteLine("Qual é o seu nome?");
 string nome = Console.ReadLine();
+
 Console.WriteLine("Oi, {0}, é um prazer te conhecer!",nome);
