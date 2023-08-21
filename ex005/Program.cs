@@ -12,5 +12,4 @@ double n2 = double.Parse(Console.ReadLine());
 
 double media = (n1 + n2)/2;
 
-Console.WriteLine("A média entre {0} e {1} é igual a {2}.", n1, n2, media);
-Console.ReadLine();
+Console.WriteLine($"A média entre {n1} e {n2} é igual a {media}.");
