@@ -7,4 +7,4 @@ double altura = double.Parse(Console.ReadLine());
 double area = largura * altura;
 double quantidadeTinta = area/2;
 
-Console.WriteLine("A área a ser pintada é de {0}m² e, para tanto, vai gastar {1} litros de tinta.", area, quantidadeTinta);
+Console.WriteLine($"A área a ser pintada é de {area}m² e, para tanto, vai gastar {quantidadeTinta:F1} litros de tinta.");
