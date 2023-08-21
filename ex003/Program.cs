@@ -8,4 +8,5 @@ Console.WriteLine("Qual o nome do funcionário?: ");
 string nome = Console.ReadLine();
 Console.WriteLine("Qual é o seu salário?: ");
 float salario = float.Parse(Console.ReadLine());
+
 Console.WriteLine("{0} recebe R${1}.", nome, salario);
