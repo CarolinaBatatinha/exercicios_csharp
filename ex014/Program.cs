@@ -10,4 +10,4 @@ double valorKmRodado = 0.2;
 
 double total = (valorDia * numDias) + (valorKmRodado * kmRodado);
 
-Console.WriteLine("Você usou o carro por {0} dias e rodou {1} Km. \nO total a pagar é de R${2}.", numDias, kmRodado, total);
+Console.WriteLine("Você usou o carro por {0} dias e rodou {1} Km. \nO total a pagar é de R${2:F2}.", numDias, kmRodado, total);
