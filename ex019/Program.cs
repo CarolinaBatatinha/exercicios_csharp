@@ -8,9 +8,11 @@ double segundaNota = double.Parse(Console.ReadLine());
 double media = (primeiraNota + segundaNota) / 2;
 
 if (media >= 7.0) {
+    Console.WriteLine($"Média: {media:F1}")
     Console.WriteLine("Parabéns, você está aprovado!");
 }
 else
 {
+    Console.WriteLine($"Média: {media:F1}")
     Console.WriteLine("Sua média foi insuficiente. Estude mais da próxima vez.");
 }
