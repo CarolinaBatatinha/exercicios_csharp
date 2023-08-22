@@ -8,4 +8,4 @@ double horaTraballhada = 25;
 double valorPorDia = 8 * 25;
 double salario = valorPorDia * diasTrabalhados;
 
-Console.WriteLine("Você trabalhou por {0} dias e vai receber R${1}.", diasTrabalhados, salario);
+Console.WriteLine("Você trabalhou por {0} dias e vai receber R${1:C}.", diasTrabalhados, salario);
