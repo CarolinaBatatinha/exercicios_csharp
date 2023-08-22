@@ -6,7 +6,7 @@ double velVeiculo = double.Parse(Console.ReadLine());
 if (velVeiculo > 80)
 {
     double valorMulta = (velVeiculo - 80) * 5;
-    Console.WriteLine("Você ultrapassou a velocidade máxima permitida e foi MULTADO no valor de R${0} .", valorMulta);
+    Console.WriteLine("Você ultrapassou a velocidade máxima permitida e foi MULTADO no valor de R${0:F2} .", valorMulta);
 }
 else
 {
