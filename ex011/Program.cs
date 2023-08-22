@@ -19,7 +19,7 @@ namespace ex011
 
             double delta = Math.Pow(B,2) - (4 * A * C);
 
-            Console.WriteLine("O valor de delta é "+delta);
+            Console.WriteLine($"O valor de delta é {delta}.");
         }
     }
 }
