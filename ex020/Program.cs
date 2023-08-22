@@ -4,7 +4,7 @@ Console.WriteLine("Digite um número inteiro:");
 int num = int.Parse(Console.ReadLine());
 
 if(num % 2 == 0){
-    Console.WriteLine("O número digitado é par");
+    Console.WriteLine($"{num} é par");
 } else {
-    Console.WriteLine("O número digitado é ímpar");
+    Console.WriteLine($"{num} é ímpar");
 }
