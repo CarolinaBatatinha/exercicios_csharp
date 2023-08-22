@@ -2,7 +2,7 @@
 // 16) [DESAFIO] Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule quantos dias de vida um fumante perderá e exiba o total em dias.
 
 Console.WriteLine("Quantos cigarros você fuma por dia?");
-int cigarrosPorDia = int.Parse(Console.ReadLine());
+int cigarrosPorDia = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Há quantos anos você fuma?");
 double anosFumando = double.Parse(Console.ReadLine());
 
