@@ -9,9 +9,11 @@ double segundoSegmento = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Qual o comprimento do 3º segmento da reta em metros?");
 double terceiroSegmento = Convert.ToDouble(Console.ReadLine());
 
-if (primeiroSegmento < segundoSegmento + terceiroSegmento && segundoSegmento < primeiroSegmento + terceiroSegmento && terceiroSegmento < segundoSegmento + primeiroSegmento) {
+if (primeiroSegmento < segundoSegmento + terceiroSegmento && segundoSegmento < primeiroSegmento + terceiroSegmento && terceiroSegmento < segundoSegmento + primeiroSegmento) 
+{
     Console.WriteLine("É possível formar um triangulo.");
 }
-else {
+else 
+{
     Console.WriteLine("Não é possível formar um triangulo.");
 }
