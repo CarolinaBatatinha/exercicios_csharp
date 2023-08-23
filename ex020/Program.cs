@@ -3,8 +3,11 @@
 Console.WriteLine("Digite um número inteiro:");
 int num = int.Parse(Console.ReadLine());
 
-if(num % 2 == 0){
+if (num % 2 == 0)
+{
     Console.WriteLine($"{num} é par");
-} else {
+} 
+else 
+{
     Console.WriteLine($"{num} é ímpar");
 }
