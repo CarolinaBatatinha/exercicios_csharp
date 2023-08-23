@@ -6,10 +6,10 @@ double distancia = Convert.ToDouble(Console.ReadLine());
 if (distancia <= 200)
 {
     double precoViagemCurta = distancia * .5;
-    Console.WriteLine("Para a viagem de {0}km, o preço da passagem é de R${1}.", distancia, precoViagemCurta);
+    Console.WriteLine("Para a viagem de {0}km, o preço da passagem é de R$ {1:F2}.", distancia, precoViagemCurta);
 }
 else
 {
     double precoViagemLonga = distancia * .45;
-    Console.WriteLine("Para a viagem de {0}km, o preço da passagem é de R${1}.", distancia, precoViagemLonga);
+    Console.WriteLine("Para a viagem de {0}km, o preço da passagem é de R$ {1:F2}.", distancia, precoViagemLonga);
 }
