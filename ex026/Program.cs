@@ -8,10 +8,15 @@ int numA = int.Parse(Console.ReadLine());
 Console.WriteLine("Digite um outro número inteiro:");
 int numB = int.Parse(Console.ReadLine());
 
-if (numA > numB){
+if (numA > numB)
+{
     Console.WriteLine("O primeiro valor é o maior");
-} else if (numA < numB){
+} 
+else if (numA < numB)
+{
     Console.WriteLine("O segundo valor é o maior");
-} else {
+} 
+else 
+{
     Console.WriteLine("Não existe valor maior, os dois são iguais");
 }
