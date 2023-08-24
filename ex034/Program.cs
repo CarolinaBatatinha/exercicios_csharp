@@ -14,19 +14,19 @@ double imc = peso / (altura * altura);
 
 if (imc < 18.5)
 {
-    Console.WriteLine("Abaixo do peso, IMC: {0:N1}", imc);
+    Console.WriteLine($"Abaixo do peso, IMC: {imc:F1}");
 }
 else if (imc >= 18.5 && imc < 25)
 {
-    Console.WriteLine("Peso ideal, IMC: {0:N1}", imc);
+    Console.WriteLine($"Peso ideal, IMC: {imc:F1}");
 }
 else if (imc >= 25 && imc < 30)
 {
-    Console.WriteLine("Sobrepeso, IMC: {0:N1}", imc);
+    Console.WriteLine($"Sobrepeso, IMC: {imc:F1}");
 }
 else if (imc >= 30 && imc < 40)
 {
-    Console.WriteLine("Obesidade, IMC: {0:N1}", imc);
+    Console.WriteLine($"Obesidade, IMC: {imc:F1}");
 } else {
-    Console.WriteLine("Obesidade mórbida, IMC: {0:N1}", imc);
+    Console.WriteLine($"Obesidade mórbida, IMC: {imc:F1}");
 }
