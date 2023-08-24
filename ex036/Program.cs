@@ -6,6 +6,7 @@
 // - A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)
 // Faça um programa que leia quantas horas de atividade uma pessoa teve por mês,
 // calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+
 Console.WriteLine("Quantas horas de atividade você teve nesse mês?");
 double horasAtividade = Convert.ToDouble(Console.ReadLine());
 double premio = horasAtividade * 0.05;
@@ -16,19 +17,19 @@ while (true)
     if (horasAtividade <= 10)
     {
         double pontosPorHora = horasAtividade * 2;
-        Console.WriteLine("Você fez {0} horas de atividade, conseguiu {1} pontos e vai ganhar R${2:N2}.", horasAtividade, pontosPorHora, premio);
+        Console.WriteLine($"Você fez {horasAtividades} horas de atividade, conseguiu {pontosPorHora} pontos e vai ganhar R$ {premio:F2}.");
         break;
     }
     else if (horasAtividade > 10 && horasAtividade <= 20)
     {
         double pontosPorHora = horasAtividade * 5;
-        Console.WriteLine("Você fez {0} horas de atividade, conseguiu {1} pontos e vai ganhar R${2:N2}.", horasAtividade, pontosPorHora, premio);
+        Console.WriteLine($"Você fez {horasAtividades} horas de atividade, conseguiu {pontosPorHora} pontos e vai ganhar R$ {premio:F2}.");
         break;
     }
     else
     {
         double pontosPorHora = horasAtividade * 10;
-        Console.WriteLine("Você fez {0} horas de atividade, conseguiu {1} pontos e vai ganhar R${2:N2}.", horasAtividade, pontosPorHora, premio);
+        Console.WriteLine($"Você fez {horasAtividades} horas de atividade, conseguiu {pontosPorHora} pontos e vai ganhar R$ {premio:F2}.";
         break;
     }
 }
