@@ -24,10 +24,10 @@ namespace AluguelCarros
             tipoCarro = Console.ReadLine();
 
             Console.WriteLine("Informe o número de dias de aluguel: ");
-            diasAluguel = int.Parse(Console.ReadLine());
+            diasAluguel = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Informe o número de Km percorridos: ");
-            kmPercorridos = int.Parse(Console.ReadLine());
+            kmPercorridos = Convert.ToInt32(Console.ReadLine());
 
             // Cálculo do preço do aluguel
             if (tipoCarro == "popular")
@@ -58,7 +58,7 @@ namespace AluguelCarros
             precoTotal = diasAluguel * precoDia + kmPercorridos * precoKm;
 
             // Exibição do resultado
-            Console.WriteLine("O preço total do aluguel é de: R$ " + precoTotal.ToString("F2"));
+            Console.WriteLine($"O preço total do aluguel é de R$ {precoTotal:F2}.");
         }
     }
 }
