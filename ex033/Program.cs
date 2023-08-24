@@ -11,10 +11,12 @@ double anosPagando = Convert.ToDouble(Console.ReadLine());
 
 double valorParcela = valorImovel/ (anosPagando*12);
 
-if (valorParcela <= (salario * 0.3)) {
+if (valorParcela <= (salario * 0.3)) 
+{
     Console.WriteLine("Parabéns, você está apto para pedir o financiamento!");
-    Console.WriteLine("Você poderá pagar R${0:N2} por mês durante {1} anos.", valorParcela, anosPagando);
+    Console.WriteLine($"Você poderá pagar R$ {valorParcela:F2} por mês durante {anosPagando} anos.");
 }
-else {
+else 
+{
     Console.WriteLine("Você não está apto para assumir o financiamento.");
 }
