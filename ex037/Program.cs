@@ -22,19 +22,19 @@ while (true)
         if (tempoServico < 15)
         {
             double salReajustado = sal * 1.05;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
         else if (tempoServico >= 15 && tempoServico < 20)
         {
             double salReajustado = sal * 1.12;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
         else
         {
             double salReajustado = sal * 1.23;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
     }
@@ -43,19 +43,19 @@ while (true)
 if (tempoServico < 15)
         {
             double salReajustado = sal * 1.03;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
         else if (tempoServico >= 15 && tempoServico < 20)
         {
             double salReajustado = sal * 1.13;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
         else
         {
             double salReajustado = sal * 1.25;
-            Console.WriteLine("Seu novo salário é de R${0:N2}", salReajustado);
+            Console.WriteLine("Seu novo salário é de R$ {0:N2}", salReajustado);
             break;
         }
     }
