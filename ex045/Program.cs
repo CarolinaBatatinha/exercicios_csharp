@@ -15,7 +15,7 @@ class Program
         Console.WriteLine("Digite o incremento da contagem: ");
         int incremento = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Contagem:");
+        Console.WriteLine("Contagem: ");
 
         if (valorInicial > valorFinal && incremento > 0)
         {
